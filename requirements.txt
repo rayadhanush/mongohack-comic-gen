@@ -1,0 +1,11 @@
+llama-index-embeddings-huggingface
+llama-index-llms-llama-cpp
+llama-cpp-python
+llama-index-embeddings-langchain
+huggingface-hub
+langchain
+transformers>=4.38.2
+torch==2.2.1
+sentence_transformers==2.5.1
+pymongo==4.6.2
+langchain-nomic
